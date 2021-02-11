@@ -1,0 +1,45 @@
+div{
+  float: left;
+  height:100px;
+}
+#vert{
+  width: 80%;
+  height: 50px;
+  background-color: green;
+}
+#bleu{
+  width: 20%;
+  height: 50px;
+  background-color: rgb(46, 78, 223);
+}
+#rouge{
+  width: 40%;
+  height: 200px;
+  background-color: crimson;
+}
+#orange{
+  width: 30%;
+  background-color: orange;
+}
+#gris{
+  width: 30%;
+  background-color: rgb(58, 57, 56);  
+}
+#jaune{
+  width: 20%;
+  background-color: rgb(194, 226, 13); 
+}
+#rose{
+  width: 20%;
+  background-color: rgb(226, 13, 198);
+}
+#violet{
+  width: 20%;
+  background-color: rgb(168, 89, 138);
+  
+}
+#marin{
+  width: 100%;
+  height:200px;
+  background-color: rgb(9, 13, 248);  
+}
